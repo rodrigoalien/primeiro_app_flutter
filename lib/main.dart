@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'Pressione o botão TÁ FODA para gerar uma frase:',
+              'Pressione o botão para gerar uma frase:',
             ),
             Text(
               _frases[_numeroAleatorio],
